@@ -1,0 +1,6 @@
+codsoft internship.
+Task-1 (TO-DO-LIST)
+Task-2 (CALCULATOR)
+Task-3 (PASSWORD GENERATOR)
+Task-4 (ROCK-PAPER-SCISSORS GAME)
+Task-5 (CONTACT BOOK)
